@@ -56,7 +56,8 @@ montgomery-traffic-analysis/
 
 ## 🔍 Methodology
 
-🔹 **Data Cleaning**: Removed duplicates, standardized timestamps, encoded categoricals  
+🔹 **Data Cleaning**: Removed duplicates, standardized timestamps, encoded categoricals 
+   ![Missing Values](https://github.com/DataWhizPradyumna/montgomery-traffic-violation-analysis/blob/main/Visualizations/Screenshot%202025-05-20%20at%204.49.47%E2%80%AFPM.png)
 🔹 **EDA**: Heatmaps, bar plots, demographic slices  
 🔹 **Modeling**:  
 - 🟧 `RandomForestClassifier`: Predicts accidents based on violation context  
