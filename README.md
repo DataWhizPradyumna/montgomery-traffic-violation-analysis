@@ -147,7 +147,22 @@ montgomery-traffic-analysis/
 ### 🔢 Distribution of Violation type by Hour and Day
 ![Violation Count](https://github.com/DataWhizShiva/montgomery-traffic-violation-analysis/blob/main/Visualizations/Screenshot%202025-05-20%20at%205.12.43%E2%80%AFPM.png)
 
-🧠 Authors
+## 🧠 Author
 
-Shiva Sai Pradyumna E – LinkedIn
+- **Shiva Sai Pradyumna E**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shiva-sai-e-685956174)  
+  📧 shivasaie1315@gmail.com
+
+## 📘 References
+
+Dataset:[Data.gov - Montgomery County Traffic Stops](https://www.data.gov/)
+
+## 💡 Final Thought
+
+> “Turning raw traffic data into smarter, safer streets — one prediction at a time.”
+
+
+**Tags:**  
+#DataScience #MachineLearning #TrafficAnalysis #Python #LightGBM #Tableau #Pandas
+
 
